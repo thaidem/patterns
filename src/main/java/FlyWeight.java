@@ -4,7 +4,7 @@
 
 import java.util.WeakHashMap;
 
-class FlyWeight {
+class MainFlyWeight {
   public static void main(String[] args) {
 
     StudentCache cache = new StudentCache();
