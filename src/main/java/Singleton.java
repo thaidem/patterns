@@ -10,7 +10,6 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 
 class MainSingleton {
-//public class Main {
   public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InvocationTargetException, InstantiationException, NoSuchFieldException, InterruptedException {
 
     SingletonWrapper singletonWrapper = new SingletonWrapper();
